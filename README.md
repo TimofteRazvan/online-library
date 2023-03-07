@@ -1,5 +1,6 @@
 # online-library
 Originally created &amp; updated as a classroom github project, now uploaded to my profile.
+Made with the help of Udemy courses & university lectures.
 
 <h3>What is this?</h3>
 A library management application, whether to keep records for a physical one or to manage an online one.

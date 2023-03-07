@@ -31,6 +31,10 @@ This application can do basic CRUD operations on Categories, Books, Publishers &
 
 ![](https://github.com/TimofteRazvan/online-library/blob/main/books.PNG)
 
+<h2>Book Add (localhost:8080/add-book)</h2>
+
+![](https://github.com/TimofteRazvan/online-library/blob/main/add.PNG)
+
 <h2>Book Details (localhost:8080/books/{id})</h2>
 
 ![](https://github.com/TimofteRazvan/online-library/blob/main/details.PNG)
